@@ -1,0 +1,19 @@
+.card{
+    padding: 20px;
+    margin: 30px auto;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    width: 300px;
+    font-size: 18px;
+}
+.card button{
+    padding: 10px;
+    background-color: rgb(230, 197, 197);
+    border: none;
+    border-radius: 8px;  
+    font-weight: 900;
+}
+.card button:hover{
+    background-color: red;
+}
